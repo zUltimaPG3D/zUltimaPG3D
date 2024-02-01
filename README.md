@@ -7,6 +7,9 @@
 
 [town-restoration](https://github.com/zUltimaPG3D/town-restoration) - Toro and Friends: Onsen Town mod to allow the english version of the game to load.
 
+## REVERSE ENGINEERING PROJECTS
+[BXCrypt](https://github.com/zUltimaPG3D/BXCrypt) - BeXide's C# encryption class, rewritten from IDA output.
+
 ## METHODS OF CONTACTING
 Discord: 55ar.
 

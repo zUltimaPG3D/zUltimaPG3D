@@ -3,14 +3,16 @@
 # [[[
 
 ## MY OWN PROJECTS
+[vrgss](https://github.com/zUltimaPG3D/vrgss) - [V](https://vlang.io/) module to parse and create RGSS encrypted archives
+
 [toro-webserver](https://github.com/zUltimaPG3D/toro-webserver) - Recreation of NeptuneSDK, LineSDK and Onsen Town servers
 
-[town-restoration](https://github.com/zUltimaPG3D/town-restoration) - Toro and Friends: Onsen Town mod to allow the english version of the game to load.
+[town-restoration](https://github.com/zUltimaPG3D/town-restoration) - Toro and Friends: Onsen Town mod to allow the english version of the game to load
 
 ## REVERSE ENGINEERING PROJECTS
-[BXCrypt](https://github.com/zUltimaPG3D/BXCrypt) - BeXide's C# encryption class, rewritten from IDA output.
+[BXCrypt](https://github.com/zUltimaPG3D/BXCrypt) - BeXide's C# encryption class, rewritten from IDA output
 
 ## METHODS OF CONTACTING
-Discord: 55ar.
+Discord: `55ar.`
 
 # ]]]

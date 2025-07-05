@@ -5,6 +5,8 @@
 ## MY OWN PROJECTS
 [vrgss](https://github.com/zUltimaPG3D/vrgss) - [V](https://vlang.io/) module to parse and create RGSS encrypted archives
 
+[mexp-server](https://github.com/zUltimaPG3D/mexp-server) - Recreation of the MineXplorer servers, mostly focused on accuracy
+
 [toro-webserver](https://github.com/zUltimaPG3D/toro-webserver) - Recreation of NeptuneSDK, LineSDK and Onsen Town servers
 
 [town-restoration](https://github.com/zUltimaPG3D/town-restoration) - Toro and Friends: Onsen Town mod to allow the english version of the game to load

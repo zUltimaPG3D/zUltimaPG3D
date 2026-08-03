@@ -15,6 +15,6 @@
 [BXCrypt](https://github.com/zUltimaPG3D/BXCrypt) - BeXide's C# encryption class, rewritten from IDA output
 
 ## METHODS OF CONTACTING
-Discord: `55ar.`
+Discord: `shadebearer`
 
 # ]]]
